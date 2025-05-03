@@ -12,4 +12,4 @@ const insertionSort = (nums) => {
     return nums;
 };
 
-console.log(insertionSort([20, 9, 4, 55, 32, 432, 553]));
+console.log(insertionSort([2, 3, 3, 1, -1, 12, 43, 22]));

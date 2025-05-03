@@ -2,4 +2,5 @@ const ordenacao = (n) => {
     return n.sort((a, b) => a - b);
 };
 
-console.log(ordenacao([2, 3, 3, 1, -1, 12, 43, 22]));
+
+console.log(ordenacao([20, 9, 4, 55, 32, 432, 553]));
